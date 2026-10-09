@@ -44,13 +44,6 @@ This project explores gym member data to understand customer churn and predict m
 * Monthly extra spending prediction
 * Comparison of machine learning models
 
-## Repository Structure
-
-* `data/` — dataset, if shareable
-* `notebooks/` — analysis and model development
-* `images/` — charts and visualizations
-* `requirements.txt` — Python dependencies
-
 ## How to Run
 
 1. Clone or download this repository.
